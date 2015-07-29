@@ -39,7 +39,7 @@ public class CaseTrackerLoad {
 		//System.out.println("dbhost: "+props.getProperty("dbhost"));
 		//System.out.println("dbusername: "+props.getProperty("dbusername"));
 		//System.out.println("dbpassword: "+props.getProperty("dbpassword"));
-		
+		System.out.println("A Project part of Legend's Hackathon");
 		System.out.println("Starting to load Case Tracker Historical Data");
 		loadCaseTrackerHistoricalData(props); 
 		System.out.println("Completed loading Case Tracker Historical Data");
