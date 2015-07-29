@@ -26,7 +26,7 @@ import java.util.Properties;
  *
  */
 public class CaseTrackerLoad {
-	private static final String FILE_PATH = "C:/Users/Administrator/Documents/Case Tracker Business Rules_v2.xls";
+	private static final String FILE_PATH = "C:/Users/Administrator/Documents/GitHub/Legends_Hackathon/input/Case Tracker Business Rules_v2.xls";
 
 	/**
 	 * @param args
